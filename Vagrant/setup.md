@@ -46,3 +46,7 @@ Restart Apache server.
 sudo service apache2 reload
 
 ```
+Now if you visit the IP address on the browser, Vagrant should be up and running.
+```
+http://192.168.22.10.xip.io/
+```
