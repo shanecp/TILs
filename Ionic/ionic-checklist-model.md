@@ -1,6 +1,6 @@
 ## Angular-checklist-model with ion-checklist
 
-Using (Angular-checklist-model)[https://github.com/vitalets/checklist-model] with Ionic checklist.
+Using [Angular-checklist-model](https://github.com/vitalets/checklist-model) with Ionic checklist.
 
 ```
 				<ion-item class="item-checkbox" ng-repeat="roles in roleTypes">
