@@ -3,6 +3,7 @@
 Using [Angular-checklist-model](https://github.com/vitalets/checklist-model) with Ionic checklist.
 
 ```
+			<ion-list>
 				<ion-item class="item-checkbox" ng-repeat="roles in roleTypes">
 					<label class="checkbox">
 						<input type="checkbox"
