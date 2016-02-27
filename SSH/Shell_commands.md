@@ -19,7 +19,7 @@ mv file.zip.bak {.bak,}
 
 ```
 echo 'hello' | tee hi.txt 		# Write the file and see contens on screen
-``
+```
 
 ### Repeat last command - `!!`
 ```
