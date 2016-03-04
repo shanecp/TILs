@@ -36,7 +36,6 @@ sudo cp -r /var/lib/boot2docker/tls /vagrant/
 
 7.) Now you should be able to see docker status by `docker ps` or login to VM with `vagrant ssh`
 
---------------------- ** -------
 
 ### Configuring NGINX
 
