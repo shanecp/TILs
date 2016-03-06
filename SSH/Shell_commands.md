@@ -21,6 +21,19 @@ mv file.zip.bak {.bak,}
 echo 'hello' | tee hi.txt 		# Write the file and see contens on screen
 ```
 
+### Use navigation keys in terminal
+```
+set -o vi   # vim mode
+```
+Then you can use the navigation keys after pressing `ESC` keys.
+
+- `k` - Go up
+- `j` - Down
+- `w` - Forward a word
+- `b` - Go back on word
+- `Ctrl+R` - Fuzzy search on command history
+
+
 ### Repeat last command - `!!`
 ```
 sudo !!
