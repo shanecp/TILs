@@ -2,7 +2,7 @@
 
 ## Default Shortcuts
 
-Go to Left/Right Splitter Window
-```
-Option/Alt + Tab
-```
+| Function | Shortcut |
+| -------- | -------- |
+| Go to Left/Right Splitter Window      | Option/Alt + Tab |
+| Scratch Pad | ⇧⌘N |
