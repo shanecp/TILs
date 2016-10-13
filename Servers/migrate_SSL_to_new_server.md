@@ -37,6 +37,8 @@ Eg on nginx config
 
 Restart Apache/Nginx and check if the new SSL is working. Go to one of the SSL checkers below to check the validity of the cerficiate. If you get an error on this step, then combine the `.bundle` and `.crt` into one file. Put the content from the .crt file on the top of .bundle file. (Because the root certificate must be the last cerficiate on the chain). Also if you get an error about an incorrect order of certificates, open the combined file in a text editor, and move them to be in the correct order.
 
+After making changes to the Apache/Nginx config or the certificates, don't forget to restart it.
+
 SSL Checkers
 - https://certlogik.com/ssl-checker/ (See the order of certificates. It should be your domain (first) > server > root certificate (last)
 - https://casecurity.ssllabs.com/analyze.html
