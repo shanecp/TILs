@@ -49,7 +49,14 @@ postgres=# GRANT ALL PRIVILEGES ON DATABASE <db_name> TO <username>;
 postgres=# \q 
 ```
 
+## PSQL Commands
+```
+\q    -- Exit
+\du   -- List the current roles
+```
+
 
 Reference
 - http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge
 - http://www.cyberciti.biz/faq/howto-add-postgresql-user-account/
+- https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps
