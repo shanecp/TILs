@@ -31,3 +31,8 @@ Then test your config and restart the server.
 sudo nginx -t
 sudo service nginx reload
 ```
+
+Finally test if your certificate is properly installed.
+
+1. Does the website load properly, and does the SSL padlock show the updated SSL expiry date?
+2. Validate certtificate with https://certlogik.com/ssl-checker/
