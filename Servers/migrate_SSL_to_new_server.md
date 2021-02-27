@@ -48,7 +48,7 @@ After making changes to the Apache/Nginx config or the certificates, don't forge
 SSL Checkers
 - https://certlogik.com/ssl-checker/ (See the order of certificates. It should be your domain (first) > server > root certificate (last)
 - https://casecurity.ssllabs.com/analyze.html
-- https://cryptoreport.websecurity.symantec.com/checker/
+- https://tools.keycdn.com/ssl
 
 
 Reference
