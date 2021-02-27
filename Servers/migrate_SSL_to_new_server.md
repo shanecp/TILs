@@ -49,6 +49,7 @@ SSL Checkers
 - https://certlogik.com/ssl-checker/ (See the order of certificates. It should be your domain (first) > server > root certificate (last)
 - https://casecurity.ssllabs.com/analyze.html
 - https://tools.keycdn.com/ssl
+- https://www.geocerts.com/ssl-checker
 
 
 Reference
